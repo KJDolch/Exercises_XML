@@ -1,0 +1,13 @@
+
+
+<book>
+  <title>The Thursday Murder Club</title>
+  <price unit="€">9.29</price>
+  <ISBN>978-0-241-98826-8</ISBN>
+  <author>
+    <name>Osman</name>
+    <first_name>Richard</first_name>
+  </author>
+  <chapter description="">1 Joyce</chapter>
+  <genre>Thriller</genre>
+</book>

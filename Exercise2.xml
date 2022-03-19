@@ -1,0 +1,37 @@
+<!-- Exercise 2 - Music Albums
+You want to categorize your music Albums
+For each album you want to write down the title, the artist, the runtime and a list of tracks
+For each track you want to safe the name, the runtime and the number of stars you would give it (0 to 5)
+Do this for two albums-->
+<music>
+  <album>
+    <title>Takk...</title>
+    <artist>Sigur Rós</artist>
+    <runtime>65 min 34 s</runtime>
+    <list-of-tracks>
+      <name>Takk...</name>
+      <runtime>1:57</runtime>
+      <number-of-stars>4</number-of-stars>
+    </list-of-tracks>
+    <list-of-tracks>
+      <name>Svo hljótt</name>
+      <runtime>7:24</runtime>
+      <number-of-stars>2</number-of-stars>
+    </list-of-tracks>
+  </album>
+  <album>
+    <title>I'm Not Dead</title>
+    <artist>Pink</artist>
+    <runtime>62 min 00 s</runtime>
+    <list-of-tracks>
+      <name>Stupid Girls</name>
+      <runtime>3:17</runtime>
+      <number-of-stars>3</number-of-stars>
+    </list-of-tracks>
+    <list-of-tracks>
+      <name>Dear Mr. President</name>
+      <runtime>4:33</runtime>
+      <number-of-stars>5</number-of-stars>
+    </list-of-tracks>
+  </album>
+</music>

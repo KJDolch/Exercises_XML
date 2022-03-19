@@ -1,0 +1,31 @@
+<!-- Exercise 3
+A publisher wants to safe his book book list
+the list should contain the title of the book, the MSRP (UVP), the ISBN, the author, a chapter list with short description of the chapters and the genre
+The saved file should also include the day on which it was saved
+Create the general structure of this XML file with the corresponding tags and attributes
+Write down the deteails for at least two books-->
+<book_list>
+  <book>
+    <title>The Thursday Murder Club</title>
+    <price unit="€">9.29</price>
+    <ISBN>978-0-241-98826-8</ISBN>
+    <author>
+      <name>Osman</name>
+      <first_name>Richard</first_name>
+    </author>
+    <chapter description="">1 Joyce</chapter>
+    <genre>Thriller</genre>
+  </book>
+  <book>
+    <title>The Man Who Died TWICE</title>
+    <price unit="€">13.09</price>
+    <ISBN>978-0-241-98826-8</ISBN>
+    <author>
+      <name>Osman</name>
+      <first_name>Richard</first_name>
+    </author>
+    <chapter description="">1 Joyce</chapter>
+    <genre>Thriller</genre>
+  </book>
+  <saved>10.03.2022</saved>
+</book_list>
